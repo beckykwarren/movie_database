@@ -1,0 +1,655 @@
+,movies,Genre,Runtime,Awards,Director
+0,Avengers: Endgame,"Action, Adventure, Sci-Fi",181,N/A,"Anthony Russo, Joe Russo"
+1,Avatar,"Action, Adventure, Fantasy, Sci-Fi",162,Won 3 Oscars. Another 85 wins & 128 nominations.,James Cameron
+2,Titanic,"Drama, Romance",194,Won 11 Oscars. Another 111 wins & 77 nominations.,James Cameron
+3,Star Wars: The Force Awakens World Premiere Red Carpet,N/A,N/A,N/A,N/A
+4,Avengers: Infinity War,"Action, Adventure, Sci-Fi",149,N/A,"Anthony Russo, Joe Russo"
+5,Jurassic World,"Action, Adventure, Sci-Fi",124,14 wins & 57 nominations.,Colin Trevorrow
+6,Furious 7,"Action, Adventure, Thriller",137,Nominated for 1 Golden Globe. Another 28 wins & 31 nominations.,James Wan
+7,Avengers: Age of Ultron,"Action, Adventure, Sci-Fi",141,7 wins & 45 nominations.,Joss Whedon
+8,Black Panther,"Action, Adventure, Sci-Fi",134,14 nominations.,Ryan Coogler
+9,Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy, Mystery",130,Nominated for 3 Oscars. Another 45 wins & 91 nominations.,David Yates
+10,Star Wars: The Last Jedi,"Action, Adventure, Fantasy, Sci-Fi",152,Nominated for 4 Oscars. Another 12 wins & 71 nominations.,Rian Johnson
+11,Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi",128,N/A,J.A. Bayona
+12,Frozen,"Animation, Adventure, Comedy, Family, Fantasy, Musical",102,Won 2 Oscars. Another 77 wins & 57 nominations.,"Chris Buck, Jennifer Lee"
+13,Incredibles 2,"Animation, Action, Adventure, Comedy, Family, Sci-Fi",118,N/A,Brad Bird
+14,The Fate of the Furious,"Action, Adventure, Thriller",136,1 win & 9 nominations.,F. Gary Gray
+15,Iron Man 3,"Action, Adventure, Sci-Fi",130,Nominated for 1 Oscar. Another 17 wins & 61 nominations.,Shane Black
+16,Minions,"Animation, Adventure, Comedy, Family, Sci-Fi",91,Nominated for 1 BAFTA Film Award. Another 4 wins & 24 nominations.,"Kyle Balda, Pierre Coffin"
+17,Captain America: Civil War,"Action, Adventure, Sci-Fi",147,16 wins & 65 nominations.,"Anthony Russo, Joe Russo"
+18,Aquaman,"Action, Adventure, Fantasy, Sci-Fi",143,N/A,James Wan
+19,Spider-Man: Far from Home,"Action, Adventure, Sci-Fi",129,N/A,Jon Watts
+20,Captain Marvel,"Action, Adventure, Sci-Fi",123,N/A,"Anna Boden, Ryan Fleck"
+21,Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi",154,Nominated for 3 Oscars. Another 10 wins & 39 nominations.,Michael Bay
+22,The Lord of the Rings: The Return of the King,"Adventure, Drama, Fantasy",201,Won 11 Oscars. Another 197 wins & 122 nominations.,Peter Jackson
+23,Skyfall,"Action, Adventure, Thriller",143,Won 2 Oscars. Another 65 wins & 119 nominations.,Sam Mendes
+24,Transformers: Age of Extinction,"Action, Adventure, Sci-Fi",165,5 wins & 23 nominations.,Michael Bay
+25,The Dark Knight Rises,"Action, Thriller",164,Nominated for 1 BAFTA Film Award. Another 38 wins & 102 nominations.,Christopher Nolan
+26,Toy Story 4,"Animation, Adventure, Comedy, Family, Fantasy",100,N/A,Josh Cooley
+27,Toy Story 3,"Animation, Adventure, Comedy, Family, Fantasy",103,Won 2 Oscars. Another 58 wins & 91 nominations.,Lee Unkrich
+28,Pirates of the Caribbean: Dead Man's Chest,"Action, Adventure, Fantasy",151,Won 1 Oscar. Another 42 wins & 53 nominations.,Gore Verbinski
+29,Rogue One: A Star Wars Story,"Action, Adventure, Sci-Fi",133,Nominated for 2 Oscars. Another 23 wins & 78 nominations.,Gareth Edwards
+30,Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy",136,2 wins & 31 nominations.,Rob Marshall
+31,Despicable Me 3,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",89,25 nominations.,"Kyle Balda, Pierre Coffin, Eric Guillon(co-director)"
+32,Jurassic Park,"Action, Adventure, Sci-Fi, Thriller",127,Won 3 Oscars. Another 32 wins & 25 nominations.,Steven Spielberg
+33,Finding Dory,"Animation, Adventure, Comedy, Family",97,Nominated for 1 BAFTA Film Award. Another 15 wins & 42 nominations.,"Andrew Stanton, Angus MacLane(co-director)"
+34,Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy, Sci-Fi",136,Nominated for 3 Oscars. Another 26 wins & 65 nominations.,George Lucas
+35,Zootopia,"Animation, Adventure, Comedy, Crime, Family, Mystery",108,Won 1 Oscar. Another 45 wins & 65 nominations.,"Byron Howard, Rich Moore, Jared Bush(co-director)"
+36,The Hobbit: An Unexpected Journey,"Adventure, Fantasy",169,Nominated for 3 Oscars. Another 10 wins & 72 nominations.,Peter Jackson
+37,The Dark Knight,"Action, Crime, Drama, Thriller",152,Won 2 Oscars. Another 152 wins & 155 nominations.,Christopher Nolan
+38,Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy",152,Nominated for 3 Oscars. Another 17 wins & 62 nominations.,Chris Columbus
+39,Despicable Me 2,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",98,Nominated for 2 Oscars. Another 12 wins & 65 nominations.,"Pierre Coffin, Chris Renaud"
+40,The Lion King,"Animation, Adventure, Drama, Family, Musical",88,Won 2 Oscars. Another 33 wins & 29 nominations.,"Roger Allers, Rob Minkoff"
+41,Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy",169,Nominated for 2 Oscars. Another 20 wins & 44 nominations.,Gore Verbinski
+42,Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy, Fantasy",119,2 wins & 3 nominations.,Jake Kasdan
+43,Harry Potter and the Deathly Hallows: Part 1,"Adventure, Fantasy, Mystery",146,Nominated for 2 Oscars. Another 15 wins & 53 nominations.,David Yates
+44,The Hobbit: The Desolation of Smaug,"Adventure, Fantasy",161,Nominated for 3 Oscars. Another 16 wins & 86 nominations.,Peter Jackson
+45,The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy",144,Nominated for 1 Oscar. Another 7 wins & 51 nominations.,Peter Jackson
+46,Finding Nemo,"Animation, Adventure, Comedy, Family",100,Won 1 Oscar. Another 48 wins & 61 nominations.,"Andrew Stanton, Lee Unkrich(co-director)"
+47,Harry Potter and the Order of the Phoenix,"Action, Adventure, Family, Fantasy, Mystery",138,Nominated for 2 BAFTA Film Awards. Another 14 wins & 40 nominations.,David Yates
+48,Harry Potter and the Half-Blood Prince,"Action, Adventure, Family, Fantasy, Mystery",153,Nominated for 1 Oscar. Another 8 wins & 35 nominations.,David Yates
+49,The Lord of the Rings: The Two Towers,"Adventure, Drama, Fantasy",179,Won 2 Oscars. Another 118 wins & 137 nominations.,Peter Jackson
+50,Shrek 2,"Animation, Adventure, Comedy, Family, Fantasy, Romance",93,Nominated for 2 Oscars. Another 18 wins & 50 nominations.,"Andrew Adamson, Kelly Asbury, Conrad Vernon"
+51,Bohemian Rhapsody,"Biography, Drama, Music",134,N/A,Bryan Singer
+52,Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy, Mystery",157,Nominated for 1 Oscar. Another 13 wins & 42 nominations.,Mike Newell
+53,Spider-Man 3,"Action, Sci-Fi",139,Nominated for 1 BAFTA Film Award. Another 3 wins & 32 nominations.,Sam Raimi
+54,Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy, Family",94,3 wins & 13 nominations.,"Carlos Saldanha, Mike Thurmeier(co-director)"
+55,Spectre,"Action, Adventure, Thriller",148,Won 1 Oscar. Another 7 wins & 32 nominations.,Sam Mendes
+56,Spider-Man: Homecoming,"Action, Adventure, Sci-Fi",133,4 wins & 9 nominations.,Jon Watts
+57,Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy, Mystery",161,Nominated for 3 BAFTA Film Awards. Another 11 wins & 42 nominations.,Chris Columbus
+58,Ice Age: Continental Drift,"Animation, Adventure, Comedy, Drama, Family, Fantasy",88,2 wins & 11 nominations.,"Steve Martino, Mike Thurmeier"
+59,The Secret Life of Pets,"Animation, Adventure, Comedy, Family",87,4 wins & 15 nominations.,"Chris Renaud, Yarrow Cheney(co-director)"
+60,Batman v Superman: Dawn of Justice,"Action, Adventure, Sci-Fi",151,14 wins & 30 nominations.,Zack Snyder
+61,The Lord of the Rings: The Fellowship of the Ring,"Adventure, Drama, Fantasy",178,Won 4 Oscars. Another 113 wins & 123 nominations.,Peter Jackson
+62,Wolf Warrior 2,"Action, Drama, Thriller, War",123,2 nominations.,Jing Wu
+63,The Hunger Games: Catching Fire,"Action, Adventure, Sci-Fi, Thriller",146,Nominated for 1 Golden Globe. Another 22 wins & 66 nominations.,Francis Lawrence
+64,Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy, Sci-Fi",136,Nominated for 1 Oscar. Another 12 wins & 42 nominations.,James Gunn
+65,Inside Out,"Animation, Adventure, Comedy, Drama, Family, Fantasy",95,Won 1 Oscar. Another 93 wins & 112 nominations.,"Pete Docter, Ronnie Del Carmen(co-director)"
+66,Thor: Ragnarok,"Action, Adventure, Comedy, Fantasy, Sci-Fi",130,5 wins & 30 nominations.,Taika Waititi
+67,Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy, Sci-Fi",140,Nominated for 1 Oscar. Another 25 wins & 56 nominations.,George Lucas
+68,Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi",150,Nominated for 1 Oscar. Another 15 wins & 27 nominations.,Michael Bay
+69,The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy, Romance",115,21 wins & 14 nominations.,Bill Condon
+70,Inception,"Action, Adventure, Sci-Fi, Thriller",148,Won 4 Oscars. Another 152 wins & 204 nominations.,Christopher Nolan
+71,Wonder Woman,"Action, Adventure, Fantasy, Sci-Fi, War",141,17 wins & 54 nominations.,Patty Jenkins
+72,Spider-Man,"Action, Adventure, Sci-Fi",121,Nominated for 2 Oscars. Another 16 wins & 58 nominations.,Sam Raimi
+73,Independence Day,"Action, Adventure, Sci-Fi",145,Won 1 Oscar. Another 34 wins & 34 nominations.,Roland Emmerich
+74,Fantastic Beasts and Where to Find Them,"Adventure, Family, Fantasy",132,Won 1 Oscar. Another 14 wins & 51 nominations.,David Yates
+75,Coco,"Animation, Adventure, Family, Fantasy, Music, Mystery",105,Won 2 Oscars. Another 86 wins & 28 nominations.,"Lee Unkrich, Adrian Molina(co-director)"
+76,Shrek the Third,"Animation, Adventure, Comedy, Family, Fantasy",93,Nominated for 1 BAFTA Film Award. Another 5 wins & 15 nominations.,"Chris Miller, Raman Hui(co-director)"
+77,Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy, Mystery",142,Nominated for 2 Oscars. Another 14 wins & 45 nominations.,Alfonso Cuarón
+78,Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy",129,9 nominations.,"Joachim Rønning, Espen Sandberg"
+79,E.T. the Extra-Terrestrial,"Family, Sci-Fi",115,Won 4 Oscars. Another 47 wins & 34 nominations.,Steven Spielberg
+80,Mission: Impossible - Fallout,"Action, Adventure, Thriller",147,N/A,Christopher McQuarrie
+81,Fast & Furious 6,"Action, Adventure, Thriller",130,9 wins & 21 nominations.,Justin Lin
+82,Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure",122,Nominated for 1 BAFTA Film Award. Another 10 wins & 35 nominations.,Steven Spielberg
+83,Deadpool 2,"Action, Adventure, Comedy, Sci-Fi",119,N/A,David Leitch
+84,Spider-Man 2,"Action, Adventure, Sci-Fi",127,Won 1 Oscar. Another 23 wins & 59 nominations.,Sam Raimi
+85,Deadpool,"Action, Adventure, Comedy, Sci-Fi",108,Nominated for 2 Golden Globes. Another 27 wins & 73 nominations.,Tim Miller
+86,Star Wars: Episode IV - A New Hope,"Action, Adventure, Fantasy, Sci-Fi",121,Won 6 Oscars. Another 50 wins & 28 nominations.,George Lucas
+87,Guardians of the Galaxy,"Action, Adventure, Comedy, Sci-Fi",121,Nominated for 2 Oscars. Another 52 wins & 99 nominations.,James Gunn
+88,2012,"Action, Adventure, Sci-Fi",158,5 wins & 21 nominations.,Roland Emmerich
+89,Maleficent,"Action, Adventure, Family, Fantasy, Romance",97,Nominated for 1 Oscar. Another 10 wins & 42 nominations.,Robert Stromberg
+90,Fast & Furious 6,"Action, Adventure, Thriller",130,9 wins & 21 nominations.,Justin Lin
+91,The Da Vinci Code,"Mystery, Thriller",149,Nominated for 1 Golden Globe. Another 6 wins & 20 nominations.,Ron Howard
+92,The Amazing Spider-Man,"Action, Sci-Fi",136,2 wins & 31 nominations.,Marc Webb
+93,The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi, Thriller",123,Nominated for 1 Golden Globe. Another 21 wins & 31 nominations.,Francis Lawrence
+94,Shrek Forever After,"Animation, Adventure, Comedy, Family, Fantasy, Romance",93,1 win & 13 nominations.,Mike Mitchell
+95,X-Men: Days of Future Past,"Action, Adventure, Sci-Fi, Thriller",132,Nominated for 1 Oscar. Another 15 wins & 47 nominations.,Bryan Singer
+96,Madagascar 3: Europe's Most Wanted,"Animation, Adventure, Comedy, Family",93,2 wins & 20 nominations.,"Eric Darnell, Tom McGrath, Conrad Vernon"
+97,Suicide Squad,"Action, Adventure, Fantasy, Sci-Fi",123,Won 1 Oscar. Another 16 wins & 37 nominations.,David Ayer
+98,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy",143,Won 1 Oscar. Another 14 wins & 46 nominations.,Andrew Adamson
+99,Monsters University,"Animation, Adventure, Comedy, Family, Fantasy",104,Nominated for 1 BAFTA Film Award. Another 9 wins & 56 nominations.,Dan Scanlon
+100,The Matrix Reloaded,"Action, Sci-Fi",138,8 wins & 31 nominations.,"Lana Wachowski, Lilly Wachowski"
+101,Up,"Animation, Adventure, Comedy, Family",96,Won 2 Oscars. Another 74 wins & 81 nominations.,"Pete Docter, Bob Peterson(co-director)"
+102,Gravity,"Drama, Sci-Fi, Thriller",91,Won 7 Oscars. Another 232 wins & 175 nominations.,Alfonso Cuarón
+103,Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi",136,Nominated for 1 Oscar. Another 5 wins & 50 nominations.,"Anthony Russo, Joe Russo"
+104,The Twilight Saga: Breaking Dawn - Part 1,"Action, Adventure, Drama, Fantasy, Romance, Thriller",117,11 wins & 22 nominations.,Bill Condon
+105,Dawn of the Planet of the Apes,"Action, Adventure, Drama, Sci-Fi",130,Nominated for 1 Oscar. Another 16 wins & 47 nominations.,Matt Reeves
+106,The Twilight Saga: New Moon,"Adventure, Drama, Fantasy, Mystery, Romance",130,20 wins & 24 nominations.,Chris Weitz
+107,Transformers,"Action, Adventure, Sci-Fi",144,Nominated for 3 Oscars. Another 20 wins & 41 nominations.,Michael Bay
+108,The Amazing Spider-Man 2,"Action, Adventure, Sci-Fi",142,3 wins & 29 nominations.,Marc Webb
+109,Ne Zha,"Animation, Fantasy, Thriller",110,N/A,Yu Yang
+110,It,Horror,135,4 wins & 30 nominations.,Andy Muschietti
+111,The Wandering Earth,"Action, Drama, Sci-Fi",125,N/A,Frant Gwo
+112,The Twilight Saga: Eclipse,"Action, Adventure, Crime, Drama, Fantasy, Mystery, Romance, Sci-Fi, Thriller",124,22 wins & 34 nominations.,David Slade
+113,Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller",132,5 wins & 30 nominations.,Brad Bird
+114,The Hunger Games,"Action, Adventure, Sci-Fi, Thriller",142,Nominated for 1 Golden Globe. Another 33 wins & 47 nominations.,Gary Ross
+115,Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller",131,6 wins & 23 nominations.,Christopher McQuarrie
+116,Forrest Gump,"Drama, Romance",142,Won 6 Oscars. Another 40 wins & 67 nominations.,Robert Zemeckis
+117,Doctor Strange,"Action, Adventure, Fantasy, Sci-Fi",115,Nominated for 1 Oscar. Another 20 wins & 64 nominations.,Scott Derrickson
+118,Interstellar,"Adventure, Drama, Sci-Fi",169,Won 1 Oscar. Another 43 wins & 143 nominations.,Christopher Nolan
+119,The Sixth Sense,"Drama, Mystery, Thriller",107,Nominated for 6 Oscars. Another 32 wins & 48 nominations.,M. Night Shyamalan
+120,Man of Steel,"Action, Adventure",143,7 wins & 46 nominations.,Zack Snyder
+121,Kung Fu Panda 2,"Animation, Action, Adventure, Comedy, Family, Fantasy",90,Nominated for 1 Oscar. Another 5 wins & 46 nominations.,Jennifer Yuh Nelson
+122,Ice Age: The Meltdown,"Animation, Adventure, Comedy, Family",91,7 wins & 16 nominations.,Carlos Saldanha
+123,Justice League,"Action, Adventure, Fantasy, Sci-Fi",120,1 win & 6 nominations.,Zack Snyder
+124,Big Hero 6,"Animation, Action, Adventure, Family, Sci-Fi",102,Won 1 Oscar. Another 16 wins & 57 nominations.,"Don Hall, Chris Williams"
+125,Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy",143,Nominated for 5 Oscars. Another 36 wins & 96 nominations.,Gore Verbinski
+126,Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy",134,N/A,David Yates
+127,The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi, Thriller",137,17 wins & 34 nominations.,Francis Lawrence
+128,Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy, Sci-Fi",142,Nominated for 1 Oscar. Another 16 wins & 58 nominations.,George Lucas
+129,Thor: The Dark World,"Action, Adventure, Fantasy",112,3 wins & 21 nominations.,Alan Taylor
+130,Moana,"Animation, Adventure, Comedy, Family, Fantasy, Musical",107,Nominated for 2 Oscars. Another 18 wins & 83 nominations.,"Ron Clements, John Musker, Don Hall(co-director), Chris Williams(co-director)"
+131,Sing,"Animation, Comedy, Family, Musical",108,Nominated for 2 Golden Globes. Another 2 wins & 21 nominations.,"Garth Jennings, Christophe Lourdelet(co-director)"
+132,The Incredibles,"Animation, Action, Adventure, Family",115,Won 2 Oscars. Another 65 wins & 55 nominations.,Brad Bird
+133,Kung Fu Panda,"Animation, Action, Adventure, Comedy, Family",92,Nominated for 1 Oscar. Another 14 wins & 37 nominations.,"Mark Osborne, John Stevenson"
+134,The Martian,"Adventure, Drama, Sci-Fi",144,Nominated for 7 Oscars. Another 37 wins & 185 nominations.,Ridley Scott
+135,Fast Five,"Action, Adventure, Thriller",130,9 wins & 21 nominations.,Justin Lin
+136,Hancock,"Action, Fantasy",92,4 wins & 11 nominations.,Peter Berg
+137,Partners in Time: The Making of 'MIB 3',"Short, Comedy",27,N/A,N/A
+138,Iron Man 2,"Action, Adventure, Sci-Fi",124,Nominated for 1 Oscar. Another 7 wins & 42 nominations.,Jon Favreau
+139,Ant-Man and the Wasp,"Action, Adventure, Comedy, Sci-Fi",118,N/A,Peyton Reed
+140,How to Train Your Dragon 2,"Animation, Action, Adventure, Family, Fantasy",102,Nominated for 1 Oscar. Another 14 wins & 60 nominations.,Dean DeBlois
+141,Ratatouille,"Animation, Adventure, Comedy, Drama, Family, Fantasy",111,Won 1 Oscar. Another 64 wins & 42 nominations.,"Brad Bird, Jan Pinkava(co-director)"
+142,The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi",129,Nominated for 1 Oscar. Another 4 wins & 23 nominations.,Steven Spielberg
+143,The Passion of the Christ,Drama,127,Nominated for 3 Oscars. Another 28 wins & 21 nominations.,Mel Gibson
+144,Mamma Mia!,"Comedy, Musical, Romance",108,Nominated for 2 Golden Globes. Another 15 wins & 24 nominations.,Phyllida Lloyd
+145,Life of Pi,"Adventure, Drama, Fantasy",127,Won 4 Oscars. Another 78 wins & 129 nominations.,Ang Lee
+146,Transformers: The Last Knight,"Action, Adventure, Sci-Fi",154,16 nominations.,Michael Bay
+147,Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy, Family",89,3 wins & 11 nominations.,"Eric Darnell, Tom McGrath"
+148,Casino Royale,"Action, Adventure, Thriller",144,Won 1 BAFTA Film Award. Another 26 wins & 44 nominations.,Martin Campbell
+149,Tangled,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",100,Nominated for 1 Oscar. Another 9 wins & 40 nominations.,"Nathan Greno, Byron Howard"
+150,War of the Worlds,"Adventure, Sci-Fi",116,Nominated for 3 Oscars. Another 14 wins & 44 nominations.,Steven Spielberg
+151,Men in Black,"Action, Adventure, Comedy, Sci-Fi",98,Won 1 Oscar. Another 19 wins & 39 nominations.,Barry Sonnenfeld
+152,The Croods,"Animation, Action, Adventure, Comedy, Family, Fantasy",98,Nominated for 1 Oscar. Another 5 wins & 44 nominations.,"Kirk DeMicco, Chris Sanders"
+153,The Hangover Part II,"Comedy, Mystery",102,5 wins & 18 nominations.,Todd Phillips
+154,Quantum of Solace,"Action, Adventure, Thriller",106,Nominated for 2 BAFTA Film Awards. Another 4 wins & 30 nominations.,Marc Forster
+155,I Am Legend,"Drama, Sci-Fi, Thriller",101,9 wins & 22 nominations.,Francis Lawrence
+156,Iron Man,"Action, Adventure, Sci-Fi",126,Nominated for 2 Oscars. Another 20 wins & 65 nominations.,Jon Favreau
+157,Ready Player One,"Action, Adventure, Sci-Fi",140,N/A,Steven Spielberg
+158,Operation Red Sea,"Action, Drama, Thriller, War",142,N/A,Dante Lam
+159,"Monsters, Inc.","Animation, Adventure, Comedy, Family, Fantasy",92,Won 1 Oscar. Another 13 wins & 38 nominations.,"Pete Docter, David Silverman(co-director), Lee Unkrich(co-director)"
+160,Night at the Museum,"Adventure, Comedy, Family, Fantasy",108,2 wins & 8 nominations.,Shawn Levy
+161,Fifty Shades of Grey,"Drama, Romance, Thriller",125,Nominated for 1 Oscar. Another 9 wins & 26 nominations.,Sam Taylor-Johnson
+162,Kong: Skull Island,"Action, Adventure, Fantasy, Sci-Fi",118,Nominated for 1 Oscar. Another 1 win & 15 nominations.,Jordan Vogt-Roberts
+163,The Smurfs,"Animation, Adventure, Comedy, Family, Fantasy",103,2 wins & 8 nominations.,Raja Gosnell
+164,Cars 2,"Animation, Adventure, Comedy, Family, Sport",106,Nominated for 1 Golden Globe. Another 1 win & 18 nominations.,"John Lasseter, Bradford Lewis(co-director)"
+165,Puss in Boots,"Animation, Action, Adventure, Comedy, Family, Fantasy",90,Nominated for 1 Oscar. Another 9 wins & 42 nominations.,Chris Miller
+166,Armageddon,"Action, Adventure, Sci-Fi, Thriller",151,Nominated for 4 Oscars. Another 15 wins & 35 nominations.,Michael Bay
+167,King Kong,"Action, Adventure, Drama, Romance",187,Won 3 Oscars. Another 43 wins & 100 nominations.,Peter Jackson
+168,Ted,Comedy,106,Nominated for 1 Oscar. Another 13 wins & 27 nominations.,Seth MacFarlane
+169,American Sniper,"Action, Biography, Drama, War",133,Won 1 Oscar. Another 23 wins & 42 nominations.,Clint Eastwood
+170,Mission: Impossible II,"Action, Adventure, Thriller",123,11 wins & 19 nominations.,John Woo
+171,Sherlock Holmes: A Game of Shadows,"Action, Adventure, Crime, Mystery, Thriller",129,3 wins & 11 nominations.,Guy Ritchie
+172,The Day After Tomorrow,"Action, Adventure, Sci-Fi, Thriller",124,Won 1 BAFTA Film Award. Another 5 wins & 12 nominations.,Roland Emmerich
+173,Detective Chinatown 2,"Action, Comedy, Mystery",121,N/A,Sicheng Chen
+174,X-Men: Apocalypse,"Action, Adventure, Sci-Fi",144,1 win & 14 nominations.,Bryan Singer
+175,Despicable Me,"Animation, Comedy, Family, Fantasy",95,Nominated for 1 Golden Globe. Another 3 wins & 40 nominations.,"Pierre Coffin, Chris Renaud"
+176,Brave,"Animation, Adventure, Comedy, Family, Fantasy",93,Won 1 Oscar. Another 18 wins & 48 nominations.,"Mark Andrews, Brenda Chapman, Steve Purcell(co-director)"
+177,World War Z,"Action, Adventure, Horror, Sci-Fi, Thriller",116,3 wins & 24 nominations.,Marc Forster
+178,Star Wars: Episode V - The Empire Strikes Back,"Action, Adventure, Fantasy, Sci-Fi",124,Won 1 Oscar. Another 21 wins & 19 nominations.,Irvin Kershner
+179,WALL·E,"Animation, Adventure, Family, Sci-Fi",98,Won 1 Oscar. Another 89 wins & 90 nominations.,Andrew Stanton
+180,The Revenant,"Action, Adventure, Biography, Drama, Western",156,Won 3 Oscars. Another 86 wins & 181 nominations.,Alejandro G. Iñárritu
+181,Madagascar,"Animation, Adventure, Comedy, Family",86,4 wins & 31 nominations.,"Eric Darnell, Tom McGrath"
+182,The Meg,"Action, Horror, Sci-Fi, Thriller",113,N/A,Jon Turteltaub
+183,Ralph Breaks the Internet,"Animation, Adventure, Comedy, Family, Fantasy",112,N/A,"Phil Johnston, Rich Moore"
+184,Hotel Transylvania 3: Summer Vacation,"Animation, Adventure, Comedy, Family, Fantasy",97,N/A,Genndy Tartakovsky
+185,The Boss Baby,"Animation, Adventure, Comedy, Family, Fantasy",97,Nominated for 1 Oscar. Another 1 win & 19 nominations.,Tom McGrath
+186,The Simpsons Movie,"Animation, Adventure, Comedy",87,Nominated for 1 Golden Globe. Another 5 wins & 33 nominations.,David Silverman
+187,Dunkirk,"Action, Drama, History, Thriller, War",106,Won 3 Oscars. Another 51 wins & 197 nominations.,Christopher Nolan
+188,Sherlock Holmes,"Action, Adventure, Crime, Mystery, Thriller",128,Nominated for 2 Oscars. Another 10 wins & 27 nominations.,Guy Ritchie
+189,Kung Fu Panda 3,"Animation, Action, Adventure, Comedy, Family, Fantasy",95,1 win & 10 nominations.,"Alessandro Carloni, Jennifer Yuh Nelson"
+190,Terminator 2: Judgment Day,"Action, Sci-Fi",137,Won 4 Oscars. Another 27 wins & 27 nominations.,James Cameron
+191,How to Train Your Dragon: The Hidden World,"Animation, Action, Adventure, Family, Fantasy",104,N/A,Dean DeBlois
+192,Ant-Man,"Action, Adventure, Comedy, Sci-Fi",117,Nominated for 1 BAFTA Film Award. Another 3 wins & 32 nominations.,Peyton Reed
+193,Meet the Fockers,"Comedy, Romance",115,2 wins & 7 nominations.,Jay Roach
+194,Ghost,"Drama, Fantasy, Romance, Thriller",127,Won 2 Oscars. Another 16 wins & 23 nominations.,Jerry Zucker
+195,Aladdin,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",90,Won 2 Oscars. Another 30 wins & 22 nominations.,"Ron Clements, John Musker"
+196,Rio 2,"Animation, Adventure, Comedy, Family, Musical",101,1 win & 22 nominations.,Carlos Saldanha
+197,Troy,"Drama, History",163,Nominated for 1 Oscar. Another 4 wins & 21 nominations.,Wolfgang Petersen
+198,Toy Story 2,"Animation, Adventure, Comedy, Family, Fantasy",92,Nominated for 1 Oscar. Another 20 wins & 26 nominations.,"John Lasseter, Ash Brannon(co-director), Lee Unkrich(co-director)"
+199,How to Train Your Dragon,"Animation, Action, Adventure, Family, Fantasy",98,Nominated for 2 Oscars. Another 25 wins & 60 nominations.,"Dean DeBlois, Chris Sanders"
+200,Twister,"Action, Adventure, Thriller",113,Nominated for 2 Oscars. Another 10 wins & 15 nominations.,Jan de Bont
+201,Oz the Great and Powerful,"Adventure, Family, Fantasy",130,5 wins & 31 nominations.,Sam Raimi
+202,War for the Planet of the Apes,"Action, Adventure, Drama, Sci-Fi, Thriller",140,Nominated for 1 Oscar. Another 22 wins & 46 nominations.,Matt Reeves
+203,Angels & Demons,"Mystery, Thriller",138,1 win & 5 nominations.,Ron Howard
+204,Rio,"Animation, Adventure, Comedy, Crime, Family, Musical",96,Nominated for 1 Oscar. Another 3 wins & 29 nominations.,Carlos Saldanha
+205,Bruce Almighty,"Comedy, Drama, Fantasy",101,7 wins & 8 nominations.,Tom Shadyac
+206,Shrek,"Animation, Adventure, Comedy, Family, Fantasy",90,Won 1 Oscar. Another 36 wins & 60 nominations.,"Andrew Adamson, Vicky Jenson"
+207,Saving Private Ryan,"Drama, War",169,Won 5 Oscars. Another 74 wins & 74 nominations.,Steven Spielberg
+208,Rise of the Planet of the Apes,"Action, Drama, Sci-Fi, Thriller",105,Nominated for 1 Oscar. Another 21 wins & 42 nominations.,Rupert Wyatt
+209,Mr. & Mrs. Smith,"Action, Comedy, Crime, Thriller",120,9 wins & 18 nominations.,Doug Liman
+210,Home Alone,"Comedy, Family",103,Nominated for 2 Oscars. Another 10 wins & 4 nominations.,Chris Columbus
+211,Star Wars: Episode VI - Return of the Jedi,"Action, Adventure, Fantasy, Sci-Fi",131,Nominated for 4 Oscars. Another 20 wins & 16 nominations.,Richard Marquand
+212,Charlie and the Chocolate Factory,"Adventure, Comedy, Family, Fantasy, Musical",115,Nominated for 1 Oscar. Another 14 wins & 50 nominations.,Tim Burton
+213,Hotel Transylvania 2,"Animation, Comedy, Family, Fantasy, Horror",89,1 win & 10 nominations.,Genndy Tartakovsky
+214,Indiana Jones and the Last Crusade,"Action, Adventure",127,Won 1 Oscar. Another 6 wins & 20 nominations.,Steven Spielberg
+215,San Andreas,"Action, Adventure, Drama, Thriller",114,2 wins & 10 nominations.,Brad Peyton
+216,Wreck-It Ralph,"Animation, Adventure, Comedy, Family, Fantasy",101,Nominated for 1 Oscar. Another 33 wins & 41 nominations.,Rich Moore
+217,Jaws,"Adventure, Drama, Thriller",124,Won 3 Oscars. Another 11 wins & 18 nominations.,Steven Spielberg
+218,The Lego Movie,"Animation, Action, Adventure, Comedy, Family, Fantasy",100,Nominated for 1 Oscar. Another 73 wins & 61 nominations.,"Phil Lord, Christopher Miller"
+219,Bumblebee,"Action, Adventure, Sci-Fi",114,N/A,Travis Knight
+220,The Hangover,Comedy,100,Won 1 Golden Globe. Another 12 wins & 25 nominations.,Todd Phillips
+221,Star Trek Into Darkness,"Action, Adventure, Sci-Fi",132,Nominated for 1 Oscar. Another 6 wins & 56 nominations.,J.J. Abrams
+222,The Matrix,"Action, Sci-Fi",136,Won 4 Oscars. Another 34 wins & 48 nominations.,"Lana Wachowski, Lilly Wachowski"
+223,Pretty Woman,"Comedy, Romance",119,Nominated for 1 Oscar. Another 8 wins & 10 nominations.,Garry Marshall
+224,Lucy,"Action, Sci-Fi, Thriller",89,1 win & 11 nominations.,Luc Besson
+225,Cars,"Animation, Comedy, Family, Sport",117,Nominated for 2 Oscars. Another 27 wins & 28 nominations.,"John Lasseter, Joe Ranft(co-director)"
+226,Gladiator,"Action, Adventure, Drama",155,Won 5 Oscars. Another 53 wins & 101 nominations.,Ridley Scott
+227,X-Men: The Last Stand,"Action, Sci-Fi",104,7 wins & 37 nominations.,Brett Ratner
+228,Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller",132,5 wins & 30 nominations.,Brad Bird
+229,National Treasure: Book of Secrets,"Action, Adventure, Mystery, Thriller",124,1 win & 5 nominations.,Jon Turteltaub
+230,The Last Samurai,"Action, Drama, War",154,Nominated for 4 Oscars. Another 21 wins & 62 nominations.,Edward Zwick
+231,300,"Action, Drama, Fantasy, War",117,17 wins & 45 nominations.,Zack Snyder
+232,Ocean's Eleven,"Crime, Thriller",116,4 wins & 20 nominations.,Steven Soderbergh
+233,Thor,"Action, Adventure, Fantasy",115,5 wins & 30 nominations.,Kenneth Branagh
+234,Pearl Harbor,"Action, Drama, History, Romance, War",183,Won 1 Oscar. Another 13 wins & 51 nominations.,Michael Bay
+235,Tarzan,"Animation, Adventure, Family, Romance",88,Won 1 Oscar. Another 10 wins & 23 nominations.,"Chris Buck, Kevin Lima"
+236,La La Land,"Comedy, Drama, Music, Musical, Romance",128,Won 6 Oscars. Another 215 wins & 254 nominations.,Damien Chazelle
+237,Alvin and the Chipmunks: The Squeakquel,"Animation, Comedy, Family, Fantasy, Music",88,3 wins.,Betty Thomas
+238,The Bourne Ultimatum,"Action, Mystery, Thriller",115,Won 3 Oscars. Another 26 wins & 39 nominations.,Paul Greengrass
+239,Men in Black II,"Action, Adventure, Comedy, Mystery, Sci-Fi",88,4 wins & 15 nominations.,Barry Sonnenfeld
+240,The Exorcist,Horror,122,Won 2 Oscars. Another 14 wins & 17 nominations.,William Friedkin
+241,Mrs. Doubtfire,"Comedy, Drama, Family",125,Won 1 Oscar. Another 10 wins & 9 nominations.,Chris Columbus
+242,Terminator Genisys,"Action, Adventure, Sci-Fi",126,8 nominations.,Alan Taylor
+243,It: Chapter Two,"Drama, Fantasy, Horror",169,N/A,Andy Muschietti
+244,Warcraft: The Beginning,"Action, Adventure, Fantasy",123,2 wins & 3 nominations.,Duncan Jones
+245,The Greatest Showman,"Biography, Drama, Musical",105,Nominated for 1 Oscar. Another 7 wins & 19 nominations.,Michael Gracey
+246,Terminator 3: Rise of the Machines,"Action, Sci-Fi",109,3 wins & 21 nominations.,Jonathan Mostow
+247,The Mummy Returns,"Action, Adventure, Fantasy, Thriller",130,6 wins & 16 nominations.,Stephen Sommers
+248,Die Another Day,"Action, Adventure, Thriller",133,Nominated for 1 Golden Globe. Another 6 wins & 34 nominations.,Lee Tamahori
+249,Pokémon Detective Pikachu,"Action, Adventure, Comedy, Family, Mystery, Sci-Fi",104,N/A,Rob Letterman
+250,Cast Away,"Adventure, Drama, Romance",143,Nominated for 2 Oscars. Another 15 wins & 33 nominations.,Robert Zemeckis
+251,The Secret Life of Pets 2,"Animation, Adventure, Comedy, Family",86,N/A,"Chris Renaud, Jonathan del Val(co-director)"
+252,The Matrix Revolutions,"Action, Sci-Fi",129,4 wins & 30 nominations.,"Lana Wachowski, Lilly Wachowski"
+253,Django Unchained,"Drama, Western",165,Won 2 Oscars. Another 56 wins & 151 nominations.,Quentin Tarantino
+254,Beauty and the Beast,"Animation, Family, Fantasy, Musical, Romance",84,Won 2 Oscars. Another 24 wins & 25 nominations.,"Gary Trousdale, Kirk Wise"
+255,Dances with Wolves,"Adventure, Drama, Western",181,Won 7 Oscars. Another 43 wins & 37 nominations.,Kevin Costner
+256,The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family, Fantasy",150,2 wins & 20 nominations.,Andrew Adamson
+257,The Mummy,"Action, Adventure, Fantasy",124,Nominated for 1 Oscar. Another 5 wins & 19 nominations.,Stephen Sommers
+258,The Chronicles of Narnia: The Voyage of the Dawn Treader,"Adventure, Family, Fantasy",113,Nominated for 1 Golden Globe. Another 1 win & 16 nominations.,Michael Apted
+259,Jason Bourne,"Action, Thriller",123,3 wins & 20 nominations.,Paul Greengrass
+260,Sex and the City,"Comedy, Drama, Romance",145,2 wins & 12 nominations.,Michael Patrick King
+261,The Wolverine,"Action, Adventure, Sci-Fi",126,2 wins & 11 nominations.,James Mangold
+262,Kingsman: The Secret Service,"Action, Adventure, Comedy, Thriller",129,8 wins & 26 nominations.,Matthew Vaughn
+263,The King's Speech,"Biography, Drama, History",118,Won 4 Oscars. Another 102 wins & 194 nominations.,Tom Hooper
+264,Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family, Fantasy",105,2 wins & 9 nominations.,Shawn Levy
+265,Batman,"Action, Adventure",126,Won 1 Oscar. Another 8 wins & 26 nominations.,Tim Burton
+266,The Bodyguard,"Drama, Music, Romance, Thriller",129,Nominated for 2 Oscars. Another 11 wins & 20 nominations.,Mick Jackson
+267,Pacific Rim,"Action, Adventure, Sci-Fi",131,Nominated for 1 BAFTA Film Award. Another 6 wins & 47 nominations.,Guillermo del Toro
+268,Kingsman: The Golden Circle,"Action, Adventure, Comedy",141,1 win & 4 nominations.,Matthew Vaughn
+269,Ice Age: Collision Course,"Animation, Adventure, Comedy, Family, Fantasy, Romance, Sci-Fi",94,2 wins.,"Mike Thurmeier, Galen T. Chu(co-director)"
+270,Signs,"Drama, Mystery, Sci-Fi, Thriller",106,3 wins & 32 nominations.,M. Night Shyamalan
+271,X2: X-Men United,"Action, Sci-Fi, Thriller",134,6 wins & 41 nominations.,Bryan Singer
+272,Alita: Battle Angel,"Action, Adventure, Sci-Fi, Thriller",122,N/A,Robert Rodriguez
+273,Prometheus,"Adventure, Mystery, Sci-Fi",124,Nominated for 1 Oscar. Another 6 wins & 46 nominations.,Ridley Scott
+274,Gone with the Wind,"Drama, History, Romance, War",238,Won 8 Oscars. Another 10 wins & 9 nominations.,"Victor Fleming, George Cukor, Sam Wood"
+275,The Mummy: Tomb of the Dragon Emperor,"Action, Adventure, Fantasy, Horror, Thriller",112,2 wins & 6 nominations.,Rob Cohen
+276,TRON: Legacy,"Action, Adventure, Sci-Fi",125,Nominated for 1 Oscar. Another 10 wins & 49 nominations.,Joseph Kosinski
+277,Mission: Impossible III,"Action, Adventure, Thriller",126,7 wins & 14 nominations.,J.J. Abrams
+278,Snow White and the Huntsman,"Action, Adventure, Drama, Fantasy",127,Nominated for 2 Oscars. Another 13 wins & 31 nominations.,Rupert Sanders
+279,Grease,"Musical, Romance",110,Nominated for 1 Oscar. Another 3 wins & 7 nominations.,Randal Kleiser
+280,Mamma Mia! Here We Go Again,"Comedy, Musical, Romance",114,N/A,Ol Parker
+281,Twilight,"Drama, Fantasy, Romance",122,29 wins & 15 nominations.,Catherine Hardwicke
+282,Solo: A Star Wars Story,"Action, Adventure, Fantasy, Sci-Fi",135,N/A,Ron Howard
+283,The Wolf of Wall Street,"Biography, Crime, Drama",180,Nominated for 5 Oscars. Another 38 wins & 165 nominations.,Martin Scorsese
+284,Superman Returns,"Action, Sci-Fi",154,Nominated for 1 Oscar. Another 12 wins & 40 nominations.,Bryan Singer
+285,Robin Hood: Prince of Thieves,"Action, Adventure, Drama, Romance",143,Nominated for 1 Oscar. Another 16 wins & 19 nominations.,Kevin Reynolds
+286,Raiders of the Lost Ark,"Action, Adventure",115,Won 4 Oscars. Another 30 wins & 23 nominations.,Steven Spielberg
+287,Independence Day: Resurgence,"Action, Adventure, Sci-Fi",120,3 wins & 16 nominations.,Roland Emmerich
+288,Godzilla: King of the Monsters,"Action, Adventure, Fantasy, Sci-Fi",132,N/A,Michael Dougherty
+289,Star Trek,"Action, Adventure, Sci-Fi",127,Won 1 Oscar. Another 23 wins & 92 nominations.,J.J. Abrams
+290,Monster Hunt,"Action, Adventure, Comedy, Fantasy",117,5 wins & 16 nominations.,Raman Hui
+291,Happy Feet,"Animation, Adventure, Comedy, Family, Music, Musical, Romance",108,Won 1 Oscar. Another 18 wins & 23 nominations.,"George Miller, Warren Coleman(co-director), Judy Morris(co-director)"
+292,Cars 3,"Animation, Adventure, Comedy, Family, Sport",102,20 nominations.,Brian Fee
+293,Live Free or Die Hard,"Action, Thriller",128,3 wins & 16 nominations.,Len Wiseman
+294,Ice Age,"Animation, Adventure, Comedy, Family, Fantasy",81,Nominated for 1 Oscar. Another 5 wins & 29 nominations.,"Chris Wedge, Carlos Saldanha(co-director)"
+295,Fifty Shades Darker,"Drama, Romance",118,3 wins & 12 nominations.,James Foley
+296,Back to the Future,"Adventure, Comedy, Sci-Fi",116,Won 1 Oscar. Another 19 wins & 25 nominations.,Robert Zemeckis
+297,Godzilla,"Action, Adventure, Sci-Fi, Thriller",123,6 wins & 31 nominations.,Gareth Edwards
+298,True Lies,"Action, Comedy, Thriller",141,Nominated for 1 Oscar. Another 7 wins & 20 nominations.,James Cameron
+299,Mad Max: Fury Road,"Action, Adventure, Sci-Fi, Thriller",120,Won 6 Oscars. Another 232 wins & 219 nominations.,George Miller
+300,Slumdog Millionaire,"Drama, Romance",120,Won 8 Oscars. Another 144 wins & 126 nominations.,"Danny Boyle, Loveleen Tandan(co-director)"
+301,Taken 2,"Action, Thriller",92,1 win & 2 nominations.,Olivier Megaton
+302,G.I. Joe: Retaliation,"Action, Adventure, Sci-Fi, Thriller",110,1 win & 11 nominations.,Jon M. Chu
+303,Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure, Family, Sci-Fi",117,N/A,"Bob Persichetti, Peter Ramsey, Rodney Rothman"
+304,Batman Begins,"Action, Adventure",140,Nominated for 1 Oscar. Another 14 wins & 72 nominations.,Christopher Nolan
+305,What Women Want,"Comedy, Fantasy, Romance",127,Nominated for 1 Golden Globe. Another 5 wins & 8 nominations.,Nancy Meyers
+306,The Adventures of Tintin,"Animation, Action, Adventure, Family, Mystery",107,Nominated for 1 Oscar. Another 21 wins & 60 nominations.,Steven Spielberg
+307,Toy Story,"Animation, Adventure, Comedy, Family, Fantasy",81,Nominated for 3 Oscars. Another 23 wins & 17 nominations.,John Lasseter
+308,X-Men Origins: Wolverine,"Action, Adventure, Sci-Fi",107,3 wins & 18 nominations.,Gavin Hood
+309,Penguins of Madagascar,"Animation, Adventure, Comedy, Family, Sci-Fi",92,1 win & 7 nominations.,"Eric Darnell, Simon J. Smith"
+310,The Golden Compass,"Adventure, Family, Fantasy",113,Won 1 Oscar. Another 6 wins & 32 nominations.,Chris Weitz
+311,Fifty Shades Freed,"Drama, Romance, Thriller",105,N/A,James Foley
+312,Terminator Salvation,"Action, Sci-Fi",115,2 wins & 13 nominations.,McG
+313,Captain America: The First Avenger,"Action, Adventure, Sci-Fi",124,3 wins & 46 nominations.,Joe Johnston
+314,Edge of Tomorrow,"Action, Sci-Fi",113,11 wins & 37 nominations.,Doug Liman
+315,There's Something About Mary,"Comedy, Romance",119,Nominated for 2 Golden Globes. Another 17 wins & 15 nominations.,"Bobby Farrelly, Peter Farrelly"
+316,Gone Girl,"Drama, Mystery, Thriller",149,Nominated for 1 Oscar. Another 65 wins & 177 nominations.,David Fincher
+317,The Fugitive,"Action, Crime, Drama, Mystery, Thriller",130,Won 1 Oscar. Another 11 wins & 33 nominations.,Andrew Davis
+318,Jurassic Park III,"Action, Adventure, Sci-Fi, Thriller",92,5 wins & 15 nominations.,Joe Johnston
+319,My Big Fat Greek Wedding,"Comedy, Drama, Romance",95,Nominated for 1 Oscar. Another 20 wins & 28 nominations.,Joel Zwick
+320,Hitch,"Comedy, Romance",118,4 wins & 24 nominations.,Andy Tennant
+321,Shark Tale,"Animation, Adventure, Comedy, Family, Fantasy",90,Nominated for 1 Oscar. Another 3 wins & 15 nominations.,"Bibo Bergeron, Vicky Jenson, Rob Letterman"
+322,Die Hard with a Vengeance,"Action, Adventure, Thriller",128,2 wins & 3 nominations.,John McTiernan
+323,The Nun,"Horror, Mystery, Thriller",96,N/A,Corin Hardy
+324,Shazam!,"Action, Adventure, Comedy, Fantasy",132,N/A,David F. Sandberg
+325,Notting Hill,"Comedy, Drama, Romance",124,Nominated for 3 Golden Globes. Another 12 wins & 14 nominations.,Roger Michell
+326,Once Upon a Time in Hollywood,Drama,N/A,N/A,Vladislav Kozlov
+327,A Bug's Life,"Animation, Adventure, Comedy, Family",95,Nominated for 1 Oscar. Another 14 wins & 20 nominations.,"John Lasseter, Andrew Stanton(co-director)"
+328,Night at the Museum: Secret of the Tomb,"Adventure, Comedy, Family, Fantasy",98,1 win & 4 nominations.,Shawn Levy
+329,Fast and Furious,"Comedy, Crime, Musical, Mystery",73,N/A,Busby Berkeley
+330,Ocean's Twelve,"Crime, Thriller",125,3 wins & 8 nominations.,Steven Soderbergh
+331,Noah,"Action, Adventure, Drama, Romance, Thriller",138,Nominated for 1 Golden Globe. Another 1 win & 18 nominations.,Darren Aronofsky
+332,The Hangover Part III,"Comedy, Crime",100,2 wins & 7 nominations.,Todd Phillips
+333,The World is Not Enough,"Action, Adventure, Thriller",128,7 wins & 12 nominations.,Michael Apted
+334,Monster Hunt 2,"Adventure, Comedy, Sci-Fi",110,N/A,Raman Hui
+335,Alvin and the Chipmunks,"Animation, Comedy, Family, Fantasy, Music",92,3 wins & 2 nominations.,Tim Hill
+336,The Karate Kid,"Action, Drama, Family, Sport",126,Nominated for 1 Oscar. Another 2 wins & 2 nominations.,John G. Avildsen
+337,Home Alone 2: Lost in New York,"Adventure, Comedy, Crime, Family",120,3 wins & 3 nominations.,Chris Columbus
+338,Hotel Transylvania,"Animation, Comedy, Family, Fantasy, Horror",91,Nominated for 1 Golden Globe. Another 2 wins & 14 nominations.,Genndy Tartakovsky
+339,Minority Report,"Action, Crime, Mystery, Sci-Fi, Thriller",145,Nominated for 1 Oscar. Another 19 wins & 85 nominations.,Steven Spielberg
+340,Your Name.,"Animation, Drama, Fantasy, Romance",106,14 wins & 22 nominations.,Makoto Shinkai
+341,Top Gun,"Action, Drama",110,Won 1 Oscar. Another 10 wins & 5 nominations.,Tony Scott
+342,The Legend of Tarzan,"Action, Adventure, Drama, Fantasy, Romance",110,2 wins & 4 nominations.,David Yates
+343,American Beauty,Drama,122,Won 5 Oscars. Another 104 wins & 100 nominations.,Sam Mendes
+344,Apollo 13,"Adventure, Drama, History",140,Won 2 Oscars. Another 24 wins & 49 nominations.,Ron Howard
+345,Rain Man,Drama,133,Won 4 Oscars. Another 22 wins & 22 nominations.,Barry Levinson
+346,X-Men: First Class,"Action, Adventure, Sci-Fi",131,20 wins & 38 nominations.,Matthew Vaughn
+347,Basic Instinct,"Drama, Mystery, Thriller",127,Nominated for 2 Oscars. Another 5 wins & 21 nominations.,Paul Verhoeven
+348,The Angry Birds Movie,"Animation, Comedy, Family",97,1 win & 7 nominations.,"Clay Kaytis, Fergal Reilly"
+349,GoldenEye,"Action, Adventure, Thriller",130,Nominated for 2 BAFTA Film Awards. Another 2 wins & 6 nominations.,Martin Campbell
+350,Catch Me If You Can,"Biography, Crime, Drama",141,Nominated for 2 Oscars. Another 13 wins & 41 nominations.,Steven Spielberg
+351,Now You See Me,"Crime, Mystery, Thriller",115,1 win & 3 nominations.,Louis Leterrier
+352,Hannibal,"Crime, Drama, Thriller",131,8 wins & 17 nominations.,Ridley Scott
+353,The Mask,"Comedy, Crime, Fantasy",101,Nominated for 1 Oscar. Another 6 wins & 19 nominations.,Chuck Russell
+354,Peter Rabbit,"Animation, Adventure, Comedy, Family, Fantasy",95,N/A,Will Gluck
+355,Speed,"Action, Adventure, Thriller",116,Won 2 Oscars. Another 16 wins & 19 nominations.,Jan de Bont
+356,Dinosaur,"Animation, Adventure, Family, Thriller",82,4 wins & 21 nominations.,"Eric Leighton, Ralph Zondag"
+357,Mary Poppins Returns,"Comedy, Family, Fantasy, Musical",130,N/A,Rob Marshall
+358,Deep Impact,"Action, Drama, Romance, Sci-Fi, Thriller",120,5 wins & 14 nominations.,Mimi Leder
+359,The Maze Runner,"Mystery, Sci-Fi, Thriller",113,4 wins & 11 nominations.,Wes Ball
+360,The Smurfs 2,"Animation, Adventure, Comedy, Family, Fantasy",105,8 nominations.,Raja Gosnell
+361,National Treasure,"Action, Adventure, Mystery, Thriller",131,1 win & 9 nominations.,Jon Turteltaub
+362,Rush Hour 2,"Action, Comedy, Crime, Thriller",90,10 wins & 22 nominations.,Brett Ratner
+363,"I, Robot","Action, Crime, Drama, Mystery, Sci-Fi, Thriller",115,Nominated for 1 Oscar. Another 1 win & 13 nominations.,Alex Proyas
+364,Trolls,"Animation, Adventure, Comedy, Family, Fantasy, Musical",92,Nominated for 1 Oscar. Another 4 wins & 35 nominations.,"Mike Mitchell, Walt Dohrn(co-director)"
+365,Pocahontas,"Animation, Adventure, Drama, Family, Musical, Romance",81,Won 2 Oscars. Another 13 wins & 6 nominations.,"Mike Gabriel, Eric Goldberg"
+366,How the Grinch Stole Christmas,"Comedy, Family, Fantasy",104,Won 1 Oscar. Another 17 wins & 37 nominations.,Ron Howard
+367,Star Trek Beyond,"Action, Adventure, Sci-Fi, Thriller",122,Nominated for 1 Oscar. Another 3 wins & 27 nominations.,Justin Lin
+368,Alvin and the Chipmunks: Chipwrecked,"Animation, Adventure, Comedy, Family, Fantasy, Music",87,2 wins & 1 nomination.,Mike Mitchell
+369,The Flintstones,"Comedy, Family, Fantasy",91,6 wins & 10 nominations.,Brian Levant
+370,Wanted,"Action, Crime, Fantasy, Thriller",110,Nominated for 2 Oscars. Another 4 wins & 20 nominations.,Timur Bekmambetov
+371,A Quiet Place,"Drama, Horror, Sci-Fi",90,N/A,John Krasinski
+372,Enchanted,"Animation, Comedy, Family, Fantasy, Musical, Romance",107,Nominated for 3 Oscars. Another 12 wins & 48 nominations.,Kevin Lima
+373,300: Rise of an Empire,"Action, Fantasy",102,1 win & 6 nominations.,Noam Murro
+374,Batman Forever,"Action, Adventure, Fantasy",121,Nominated for 3 Oscars. Another 10 wins & 22 nominations.,Joel Schumacher
+375,Prince of Persia: The Sands of Time,"Action, Fantasy",116,1 win & 10 nominations.,Mike Newell
+376,Over the Hedge,"Animation, Adventure, Comedy, Family, Fantasy",83,6 wins & 20 nominations.,"Tim Johnson, Karey Kirkpatrick"
+377,Journey 2: The Mysterious Island,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",94,7 wins & 4 nominations.,Brad Peyton
+378,The Rock,"Action, Adventure, Thriller",136,Nominated for 1 Oscar. Another 9 wins & 8 nominations.,Michael Bay
+379,The Great Wall,"Action, Adventure, Fantasy, Thriller",103,1 win & 1 nomination.,Yimou Zhang
+380,Now You See Me 2,"Action, Adventure, Comedy, Crime, Mystery, Thriller",129,4 nominations.,Jon M. Chu
+381,The Curious Case of Benjamin Button,"Drama, Fantasy, Romance",166,Won 3 Oscars. Another 77 wins & 155 nominations.,David Fincher
+382,Indiana Jones and the Temple of Doom,"Action, Adventure",118,Won 1 Oscar. Another 8 wins & 21 nominations.,Steven Spielberg
+383,Tomorrow Never Dies,"Action, Adventure, Thriller",119,Nominated for 1 Golden Globe. Another 6 wins & 9 nominations.,Roger Spottiswoode
+384,The Good Dinosaur,"Animation, Adventure, Comedy, Drama, Family, Fantasy",93,Nominated for 1 Golden Globe. Another 7 wins & 39 nominations.,Peter Sohn
+385,Back to the Future Part II,"Adventure, Comedy, Sci-Fi",108,Nominated for 1 Oscar. Another 9 wins & 8 nominations.,Robert Zemeckis
+386,22 Jump Street,"Action, Comedy, Crime",112,7 wins & 24 nominations.,"Phil Lord, Christopher Miller"
+387,Meet the Parents,"Comedy, Romance",108,Nominated for 1 Oscar. Another 7 wins & 14 nominations.,Jay Roach
+388,Who Framed Roger Rabbit,"Animation, Adventure, Comedy, Crime, Family, Fantasy, Mystery",104,Won 3 Oscars. Another 21 wins & 21 nominations.,Robert Zemeckis
+389,Black Swan,"Drama, Thriller",108,Won 1 Oscar. Another 91 wins & 257 nominations.,Darren Aronofsky
+390,The Perfect Storm,"Action, Adventure, Drama, Thriller",130,Nominated for 2 Oscars. Another 4 wins & 25 nominations.,Wolfgang Petersen
+391,Crocodile Dundee,"Adventure, Comedy",97,Nominated for 1 Oscar. Another 3 wins & 7 nominations.,Peter Faiman
+392,Seven Samurai,"Adventure, Drama",207,Nominated for 2 Oscars. Another 5 wins & 6 nominations.,Akira Kurosawa
+393,The Devil Wears Prada,"Comedy, Drama",109,Nominated for 2 Oscars. Another 16 wins & 50 nominations.,David Frankel
+394,Taken 3,"Action, Thriller",108,3 wins & 2 nominations.,Olivier Megaton
+395,The Hunchback of Notre Dame,"Animation, Drama, Family, Musical, Romance",91,Nominated for 1 Oscar. Another 8 wins & 21 nominations.,"Gary Trousdale, Kirk Wise"
+396,The SpongeBob Movie: Sponge Out of Water,"Animation, Adventure, Comedy, Family, Fantasy",92,1 win & 9 nominations.,"Paul Tibbitt, Mike Mitchell"
+397,John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller",131,N/A,Chad Stahelski
+398,Schindler's List,"Biography, Drama, History",195,Won 7 Oscars. Another 82 wins & 49 nominations.,Steven Spielberg
+399,Megamind,"Animation, Action, Comedy, Family, Sci-Fi",95,2 wins & 16 nominations.,Tom McGrath
+400,Green Book,"Biography, Comedy, Drama, Music",130,N/A,Peter Farrelly
+401,Lethal Weapon 3,"Action, Crime, Thriller",118,3 wins & 4 nominations.,Richard Donner
+402,Robin Hood,"Action, Drama, History, Romance",140,1 win & 14 nominations.,Ridley Scott
+403,Inglourious Basterds,"Adventure, Drama, War",153,Won 1 Oscar. Another 129 wins & 165 nominations.,Quentin Tarantino
+404,The Conjuring 2,"Horror, Mystery, Thriller",134,4 wins & 13 nominations.,James Wan
+405,Fatal Attraction,"Drama, Thriller",119,Nominated for 6 Oscars. Another 7 wins & 16 nominations.,Adrian Lyne
+406,The Last Airbender,"Action, Adventure, Family, Fantasy",103,8 wins & 11 nominations.,M. Night Shyamalan
+407,The Conjuring,"Horror, Mystery, Thriller",112,15 wins & 22 nominations.,James Wan
+408,The Proposal,"Comedy, Drama, Romance",108,Nominated for 1 Golden Globe. Another 7 wins & 19 nominations.,Anne Fletcher
+409,Beverly Hills Cop,"Action, Comedy, Crime, Thriller",105,Nominated for 1 Oscar. Another 3 wins & 4 nominations.,Martin Brest
+410,Air Force One,"Action, Drama, Thriller",124,Nominated for 2 Oscars. Another 7 wins & 10 nominations.,Wolfgang Petersen
+411,The Expendables 2,"Action, Adventure, Thriller",103,4 wins & 5 nominations.,Simon West
+412,Chicken Little,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",81,4 wins & 15 nominations.,Mark Dindal
+413,As Good as It Gets,"Comedy, Drama, Romance",139,Won 2 Oscars. Another 35 wins & 49 nominations.,James L. Brooks
+414,A Beautiful Mind,"Biography, Drama",135,Won 4 Oscars. Another 33 wins & 67 nominations.,Ron Howard
+415,Maze Runner: The Scorch Trials,"Action, Sci-Fi, Thriller",131,2 wins & 5 nominations.,Wes Ball
+416,Resident Evil: The Final Chapter,"Action, Horror, Sci-Fi, Thriller",107,1 win & 3 nominations.,Paul W.S. Anderson
+417,Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy, Crime",95,Nominated for 1 Oscar. Another 18 wins & 29 nominations.,Jay Roach
+418,The Lego Batman Movie,"Animation, Action, Comedy, Family",104,11 wins & 58 nominations.,Chris McKay
+419,The Polar Express,"Animation, Adventure, Comedy, Family, Fantasy, Musical",100,Nominated for 3 Oscars. Another 5 wins & 23 nominations.,Robert Zemeckis
+420,Ocean's Thirteen,"Crime, Thriller",122,1 win & 5 nominations.,Steven Soderbergh
+421,Little Fockers,"Comedy, Romance",98,3 wins & 5 nominations.,Paul Weitz
+422,Bolt,"Animation, Adventure, Comedy, Drama, Family",96,Nominated for 1 Oscar. Another 1 win & 30 nominations.,"Byron Howard, Chris Williams"
+423,Ransom,"Action, Crime, Thriller",121,Nominated for 1 Golden Globe. Another 3 wins & 4 nominations.,Ron Howard
+424,Runaway Bride,"Comedy, Romance",116,6 wins & 9 nominations.,Garry Marshall
+425,The Blind Side,"Biography, Drama, Sport",129,Won 1 Oscar. Another 7 wins & 30 nominations.,John Lee Hancock
+426,The Fault in Our Stars,"Drama, Romance",126,21 wins & 14 nominations.,Josh Boone
+427,The Pursuit of Happyness,"Biography, Drama",117,Nominated for 1 Oscar. Another 11 wins & 24 nominations.,Gabriele Muccino
+428,Rise of the Guardians,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",97,Nominated for 1 Golden Globe. Another 14 wins & 31 nominations.,Peter Ramsey
+429,Close Encounters of the Third Kind,"Drama, Sci-Fi",138,Won 1 Oscar. Another 14 wins & 38 nominations.,Steven Spielberg
+430,Chicago,"Comedy, Crime, Musical",113,Won 6 Oscars. Another 51 wins & 128 nominations.,Rob Marshall
+431,Annabelle: Creation,"Horror, Mystery, Thriller",109,3 nominations.,David F. Sandberg
+432,Wonder,"Drama, Family",113,Nominated for 1 Oscar. Another 2 wins & 21 nominations.,Stephen Chbosky
+433,Wrath of the Titans,"Action, Adventure, Fantasy",99,2 wins & 2 nominations.,Jonathan Liebesman
+434,Skyscraper,"Action, Adventure, Thriller",102,N/A,Rawson Marshall Thurber
+435,A Good Day to Die Hard,"Action, Thriller",98,4 wins & 7 nominations.,John Moore
+436,Mulan,"Animation, Adventure, Family, Fantasy, Musical, War",88,Nominated for 1 Oscar. Another 17 wins & 20 nominations.,"Tony Bancroft, Barry Cook"
+437,Battleship,"Action, Adventure, Sci-Fi, Thriller",131,4 wins & 15 nominations.,Peter Berg
+438,Dangal,"Action, Biography, Drama, Sport",161,15 wins.,Nitesh Tiwari
+439,Liar Liar,"Comedy, Fantasy",86,Nominated for 1 Golden Globe. Another 4 wins & 5 nominations.,Tom Shadyac
+440,G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi, Thriller",118,3 wins & 16 nominations.,Stephen Sommers
+441,Hook,"Adventure, Comedy, Family, Fantasy",142,Nominated for 5 Oscars. Another 5 wins & 13 nominations.,Steven Spielberg
+442,Rocky IV,"Drama, Sport",91,9 wins & 5 nominations.,Sylvester Stallone
+443,Superman,"Action, Adventure, Drama, Sci-Fi",143,Nominated for 3 Oscars. Another 17 wins & 18 nominations.,Richard Donner
+444,Rambo: First Blood Part II,"Action, Adventure, Thriller, War",96,Nominated for 1 Oscar. Another 5 wins & 4 nominations.,George P. Cosmatos
+445,Van Helsing,"Action, Adventure, Fantasy",131,3 wins & 20 nominations.,Stephen Sommers
+446,Resident Evil: Afterlife,"Action, Adventure, Horror, Sci-Fi",96,2 wins & 8 nominations.,Paul W.S. Anderson
+447,Stuart Little,"Adventure, Comedy, Family, Fantasy",84,Nominated for 1 Oscar. Another 7 wins & 13 nominations.,Rob Minkoff
+448,Beverly Hills Cop II,"Action, Comedy, Crime, Thriller",100,Nominated for 1 Oscar. Another 6 wins & 2 nominations.,Tony Scott
+449,Alice Through the Looking Glass,"Adventure, Family, Fantasy",113,2 wins & 18 nominations.,James Bobin
+450,My Best Friend's Wedding,"Comedy, Drama, Romance",105,Nominated for 1 Oscar. Another 12 wins & 22 nominations.,P.J. Hogan
+451,Real Steel,"Action, Drama, Family, Sci-Fi, Sport",127,Nominated for 1 Oscar. Another 2 wins & 5 nominations.,Shawn Levy
+452,Look Who's Talking,Comedy,93,5 wins & 2 nominations.,Amy Heckerling
+453,Austin Powers in Goldmember,"Action, Adventure, Comedy, Crime",94,5 wins & 21 nominations.,Jay Roach
+454,Miss Peregrine's Home for Peculiar Children,"Adventure, Drama, Fantasy, Thriller",127,2 wins & 12 nominations.,Tim Burton
+455,X-Men,"Action, Adventure, Sci-Fi",104,13 wins & 26 nominations.,Bryan Singer
+456,Ferdinand,"Animation, Adventure, Comedy, Family, Fantasy",108,Nominated for 1 Oscar. Another 2 wins & 15 nominations.,Carlos Saldanha
+457,Ghostbusters,"Action, Comedy, Fantasy",105,Nominated for 2 Oscars. Another 6 wins & 6 nominations.,Ivan Reitman
+458,Shutter Island,"Mystery, Thriller",138,9 wins & 62 nominations.,Martin Scorsese
+459,Doctor Dolittle,"Comedy, Family, Fantasy",85,4 wins & 9 nominations.,Betty Thomas
+460,Salt,"Action, Mystery, Thriller",100,Nominated for 1 Oscar. Another 4 wins & 15 nominations.,Phillip Noyce
+461,G-Force,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",88,1 win & 1 nomination.,Hoyt Yeatman
+462,The Departed,"Crime, Drama, Thriller",151,Won 4 Oscars. Another 92 wins & 135 nominations.,Martin Scorsese
+463,What Lies Beneath,"Drama, Fantasy, Horror, Mystery, Thriller",130,5 wins & 5 nominations.,Robert Zemeckis
+464,Pacific Rim: Uprising,"Action, Adventure, Sci-Fi",111,N/A,Steven S. DeKnight
+465,Shakespeare in Love,"Comedy, Drama, History, Romance",123,Won 7 Oscars. Another 56 wins & 88 nominations.,John Madden
+466,Divergent,"Action, Adventure, Mystery, Sci-Fi",139,7 wins & 11 nominations.,Neil Burger
+467,Coming to America,"Comedy, Romance",116,Nominated for 2 Oscars. Another 5 wins & 2 nominations.,John Landis
+468,The Bourne Supremacy,"Action, Mystery, Thriller",108,5 wins & 21 nominations.,Paul Greengrass
+469,Bridesmaids,"Comedy, Romance",125,Nominated for 2 Oscars. Another 25 wins & 69 nominations.,Paul Feig
+470,Sex and the City 2,"Comedy, Drama, Romance",146,8 wins & 9 nominations.,Michael Patrick King
+471,Maze Runner: The Death Cure,"Action, Sci-Fi, Thriller",143,N/A,Wes Ball
+472,Casper,"Comedy, Family, Fantasy",100,4 wins & 5 nominations.,Brad Silberling
+473,Bee Movie,"Animation, Adventure, Comedy, Family",91,Nominated for 1 Golden Globe. Another 1 win & 14 nominations.,"Simon J. Smith, Steve Hickner"
+474,American Pie 2,Comedy,108,8 wins & 6 nominations.,J.B. Rogers
+475,Pitch Perfect 2,"Comedy, Music",115,9 wins & 16 nominations.,Elizabeth Banks
+476,The Green Mile,"Crime, Drama, Fantasy, Mystery",189,Nominated for 4 Oscars. Another 15 wins & 32 nominations.,Frank Darabont
+477,Oblivion,"Action, Adventure, Sci-Fi",124,14 nominations.,Joseph Kosinski
+478,Elysium,"Action, Drama, Sci-Fi",109,1 win & 10 nominations.,Neill Blomkamp
+479,Lethal Weapon 4,"Action, Crime, Thriller",127,4 wins & 11 nominations.,Richard Donner
+480,Wedding Crashers,"Comedy, Romance",119,11 wins & 11 nominations.,David Dobkin
+481,John Carter,"Action, Adventure, Sci-Fi",132,2 wins & 8 nominations.,Andrew Stanton
+482,Turbo,"Animation, Adventure, Comedy, Family, Sci-Fi, Sport",96,1 win & 13 nominations.,David Soren
+483,Bridget Jones's Diary,"Comedy, Drama, Romance",97,Nominated for 1 Oscar. Another 8 wins & 29 nominations.,Sharon Maguire
+484,Split,"Horror, Thriller",117,8 wins & 19 nominations.,M. Night Shyamalan
+485,The Tourist,"Action, Adventure, Crime, Mystery, Romance, Thriller",103,Nominated for 3 Golden Globes. Another 4 wins & 1 nomination.,Florian Henckel von Donnersmarck
+486,Scary Movie,Comedy,88,7 wins & 5 nominations.,Keenen Ivory Wayans
+487,xXx,"Action, Adventure, Thriller",124,4 wins & 14 nominations.,Rob Cohen
+488,Spirited Away,"Animation, Adventure, Family, Fantasy, Mystery",125,Won 1 Oscar. Another 56 wins & 27 nominations.,Hayao Miyazaki
+489,The Bourne Legacy,"Action, Adventure, Thriller",135,1 win & 11 nominations.,Tony Gilroy
+490,Mr. Peabody & Sherman,"Animation, Adventure, Comedy, Family, Sci-Fi",92,2 wins & 16 nominations.,Rob Minkoff
+491,Scooby-Doo,"Adventure, Comedy, Family, Fantasy, Mystery",86,5 wins & 14 nominations.,Raja Gosnell
+492,Lincoln,"Biography, Drama, History, War",150,Won 2 Oscars. Another 108 wins & 242 nominations.,Steven Spielberg
+493,Lara Croft: Tomb Raider,"Action, Adventure, Fantasy, Thriller",100,4 wins & 18 nominations.,Simon West
+494,Tomb Raider,"Action, Adventure, Fantasy, Thriller",119,N/A,Roar Uthaug
+495,The Expendables,"Action, Adventure, Thriller",103,3 wins & 5 nominations.,Sylvester Stallone
+496,Cloudy with a Chance of Meatballs 2,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",95,16 nominations.,"Cody Cameron, Kris Pearn"
+497,Jerry Maguire,"Comedy, Drama, Romance, Sport",139,Won 1 Oscar. Another 25 wins & 41 nominations.,Cameron Crowe
+498,Bad Boys II,"Action, Comedy, Crime, Thriller",147,5 wins & 13 nominations.,Michael Bay
+499,Lilo & Stitch,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",85,Nominated for 1 Oscar. Another 10 wins & 26 nominations.,"Dean DeBlois, Chris Sanders"
+500,The Silence of the Lambs,"Crime, Drama, Thriller",118,Won 5 Oscars. Another 54 wins & 44 nominations.,Jonathan Demme
+501,Grown Ups,Comedy,102,3 wins & 4 nominations.,Dennis Dugan
+502,Neighbors,Comedy,97,6 wins & 11 nominations.,Nicholas Stoller
+503,The Firm,"Drama, Mystery, Thriller",154,Nominated for 2 Oscars. Another 3 wins & 5 nominations.,Sydney Pollack
+504,We're the Millers,"Comedy, Crime",110,4 wins & 15 nominations.,Rawson Marshall Thurber
+505,Gran Torino,Drama,116,Nominated for 1 Golden Globe. Another 20 wins & 17 nominations.,Clint Eastwood
+506,"10,000 BC","Action, Adventure, Drama, Fantasy, History",109,N/A,Roland Emmerich
+507,Epic,"Animation, Adventure, Family, Fantasy, Mystery, Thriller",102,2 wins & 21 nominations.,Chris Wedge
+508,Exodus: Gods and Kings,"Action, Drama, Fantasy",150,5 nominations.,Ridley Scott
+509,Paddington,"Adventure, Comedy, Family, Fantasy",95,Nominated for 1 BAFTA Film Award. Another 2 wins & 6 nominations.,Paul King
+510,Bambi,"Animation, Drama, Family",70,Nominated for 3 Oscars. Another 5 wins & 3 nominations.,"James Algar, Samuel Armstrong, David Hand, Graham Heid, Bill Roberts, Paul Satterfield, Norman Wright, Arthur Davis, Clyde Geronimi"
+511,The Princess and the Frog,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",97,Nominated for 3 Oscars. Another 11 wins & 38 nominations.,"Ron Clements, John Musker"
+512,Batman Returns,"Action, Crime, Fantasy",126,Nominated for 2 Oscars. Another 2 wins & 27 nominations.,Tim Burton
+513,Something's Gotta Give,"Comedy, Drama, Romance",128,Nominated for 1 Oscar. Another 7 wins & 12 nominations.,Nancy Meyers
+514,Indecent Proposal,"Drama, Romance",117,7 wins & 8 nominations.,Adrian Lyne
+515,American Gangster,"Biography, Crime, Drama, Thriller",157,Nominated for 2 Oscars. Another 12 wins & 35 nominations.,Ridley Scott
+516,Waterworld,"Action, Adventure, Sci-Fi, Thriller",135,Nominated for 1 Oscar. Another 5 wins & 8 nominations.,Kevin Reynolds
+517,The Truman Show,"Comedy, Drama, Sci-Fi",103,Nominated for 3 Oscars. Another 38 wins & 65 nominations.,Peter Weir
+518,Charlie's Angels,"Action, Adventure, Comedy, Crime, Thriller",98,14 wins & 30 nominations.,McG
+519,The Fifth Element,"Action, Adventure, Sci-Fi",126,Nominated for 1 Oscar. Another 9 wins & 36 nominations.,Luc Besson
+520,The Incredible Hulk,"Action, Adventure, Sci-Fi",112,1 win & 8 nominations.,Louis Leterrier
+521,Jumanji,"Adventure, Comedy, Family, Fantasy",104,4 wins & 9 nominations.,Joe Johnston
+522,Bridget Jones: The Edge of Reason,"Comedy, Drama, Romance",108,Nominated for 1 Golden Globe. Another 7 nominations.,Beeban Kidron
+523,The Dark Knight Rises,"Action, Thriller",164,Nominated for 1 BAFTA Film Award. Another 38 wins & 102 nominations.,Christopher Nolan
+524,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Comedy,84,Nominated for 1 Oscar. Another 20 wins & 33 nominations.,Larry Charles
+525,Total Recall,"Action, Sci-Fi, Thriller",113,Nominated for 2 Oscars. Another 8 wins & 14 nominations.,Paul Verhoeven
+526,All Access: Making Michael Jackson's This Is It,Documentary,N/A,N/A,N/A
+527,Robots,"Animation, Adventure, Comedy, Family, Sci-Fi",91,2 wins & 22 nominations.,"Chris Wedge, Carlos Saldanha(co-director)"
+528,The Lone Ranger,"Action, Adventure, Western",150,Nominated for 2 Oscars. Another 4 wins & 17 nominations.,Gore Verbinski
+529,Super 8,"Mystery, Sci-Fi, Thriller",112,11 wins & 67 nominations.,J.J. Abrams
+530,Mojin - The Lost Legend,"Action, Adventure, Drama, Fantasy, Horror, Mystery, Thriller",127,3 wins & 8 nominations.,Wuershan
+531,Blade Runner 2049,"Action, Drama, Mystery, Sci-Fi, Thriller",164,Won 2 Oscars. Another 81 wins & 131 nominations.,Denis Villeneuve
+532,Charlie's Angels: Full Throttle,"Action, Adventure, Comedy, Crime",106,9 wins & 20 nominations.,McG
+533,Rush Hour 3,"Action, Comedy, Crime, Thriller",91,9 nominations.,Brett Ratner
+534,The Full Monty,"Comedy, Drama",91,Won 1 Oscar. Another 35 wins & 31 nominations.,Peter Cattaneo
+535,Annabelle,"Horror, Mystery, Thriller",99,3 wins & 7 nominations.,John R. Leonetti
+536,The Village,"Drama, Mystery, Thriller",108,Nominated for 1 Oscar. Another 4 wins & 21 nominations.,M. Night Shyamalan
+537,Lost in Hong Kong,"Action, Adventure, Comedy, Crime, Romance",114,N/A,Zheng Xu
+538,Erin Brockovich,"Biography, Drama",131,Won 1 Oscar. Another 31 wins & 58 nominations.,Steven Soderbergh
+539,Get Out,"Horror, Mystery, Thriller",104,Won 1 Oscar. Another 122 wins & 181 nominations.,Jordan Peele
+540,Us,"Horror, Mystery, Thriller",116,N/A,Jordan Peele
+541,Cliffhanger,"Action, Adventure, Thriller",113,Nominated for 3 Oscars. Another 1 win & 9 nominations.,Renny Harlin
+542,Kung Fu Yoga,"Action, Adventure, Comedy, Fantasy, Mystery",107,N/A,Stanley Tong
+543,Baahubali 2: The Conclusion,"Action, Drama",167,5 wins & 6 nominations.,S.S. Rajamouli
+544,Babe,"Comedy, Drama, Family",91,Won 1 Oscar. Another 18 wins & 23 nominations.,Chris Noonan
+545,Men in Black: International,"Action, Adventure, Comedy, Sci-Fi",114,N/A,F. Gary Gray
+546,Wild Hogs,"Adventure, Comedy",100,4 nominations.,Walt Becker
+547,High School Musical 3: Senior Year,"Comedy, Drama, Family, Music, Musical, Romance",112,8 wins & 9 nominations.,Kenny Ortega
+548,Hercules,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",93,Nominated for 1 Oscar. Another 9 wins & 15 nominations.,"Ron Clements, John Musker"
+549,Dark Phoenix,"Action, Adventure, Sci-Fi",113,N/A,Simon Kinberg
+550,True Grit,"Drama, Western",110,Nominated for 10 Oscars. Another 37 wins & 153 nominations.,"Ethan Coen, Joel Coen"
+551,Bean,"Adventure, Comedy, Family",89,2 wins & 1 nomination.,Mel Smith
+552,American Hustle,"Crime, Drama",138,Nominated for 10 Oscars. Another 70 wins & 208 nominations.,David O. Russell
+553,You've Got Mail,"Comedy, Drama, Romance",119,Nominated for 1 Golden Globe. Another 5 wins & 7 nominations.,Nora Ephron
+554,Enemy of the State,"Action, Thriller",132,5 wins & 16 nominations.,Tony Scott
+555,Brother Bear,"Animation, Adventure, Comedy, Family, Fantasy",85,Nominated for 1 Oscar. Another 2 wins & 21 nominations.,"Aaron Blaise, Robert Walker"
+556,The Mask of Zorro,"Action, Adventure, Comedy, Romance, Thriller, Western",136,Nominated for 2 Oscars. Another 8 wins & 16 nominations.,Martin Campbell
+557,Eragon,"Action, Adventure, Family, Fantasy",104,1 win & 6 nominations.,Stefen Fangmeier
+558,The Ring,"Horror, Mystery",115,14 wins & 11 nominations.,Gore Verbinski
+559,The Blair Witch Project,"Horror, Mystery",81,18 wins & 23 nominations.,"Daniel Myrick, Eduardo Sánchez"
+560,Unbreakable,"Drama, Mystery, Sci-Fi, Thriller",106,2 wins & 13 nominations.,M. Night Shyamalan
+561,Dumb and Dumber,Comedy,107,5 wins & 3 nominations.,"Peter Farrelly, Bobby Farrelly"
+562,Glass,"Drama, Sci-Fi, Thriller",129,N/A,M. Night Shyamalan
+563,Grown Ups 2,Comedy,101,5 wins & 15 nominations.,Dennis Dugan
+564,Love Actually,"Comedy, Drama, Romance",135,Nominated for 2 Golden Globes. Another 10 wins & 27 nominations.,Richard Curtis
+565,Journey to the West: The Demons Strike Back,"Adventure, Comedy, Fantasy",109,N/A,Hark Tsui
+566,The Peanuts Movie,"Animation, Adventure, Comedy, Drama, Family",88,Nominated for 1 Golden Globe. Another 1 win & 45 nominations.,Steve Martino
+567,Rango,"Animation, Adventure, Comedy, Family, Western",107,Won 1 Oscar. Another 45 wins & 24 nominations.,Gore Verbinski
+568,Four Weddings and a Funeral,"Comedy, Drama, Romance",117,Nominated for 2 Oscars. Another 24 wins & 23 nominations.,Mike Newell
+569,Face/Off,"Action, Crime, Sci-Fi, Thriller",138,Nominated for 1 Oscar. Another 11 wins & 21 nominations.,John Woo
+570,Teenage Mutant Ninja Turtles: Out of the Shadows,"Action, Adventure, Comedy, Sci-Fi",112,10 nominations.,Dave Green
+571,Dark Shadows,"Comedy, Fantasy, Horror",113,2 wins & 13 nominations.,Tim Burton
+572,Hulk,"Action, Sci-Fi",138,3 wins & 14 nominations.,Ang Lee
+573,The Godfather,"Crime, Drama",175,Won 3 Oscars. Another 24 wins & 28 nominations.,Francis Ford Coppola
+574,Pixels,"Action, Comedy, Sci-Fi",105,4 wins & 9 nominations.,Chris Columbus
+575,Back to the Future Part III,"Adventure, Comedy, Sci-Fi, Western",118,5 wins & 11 nominations.,Robert Zemeckis
+576,Rush Hour,"Action, Comedy, Crime, Thriller",98,6 wins & 9 nominations.,Brett Ratner
+577,After Earth,"Action, Adventure, Mystery, Sci-Fi",100,3 wins & 8 nominations.,M. Night Shyamalan
+578,A Few Good Men,"Drama, Thriller",138,Nominated for 4 Oscars. Another 10 wins & 26 nominations.,Rob Reiner
+579,Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",90,Nominated for 1 Golden Globe. Another 1 win & 13 nominations.,"Phil Lord, Christopher Miller"
+580,8 Mile,"Drama, Music",110,Won 1 Oscar. Another 14 wins & 21 nominations.,Curtis Hanson
+581,Daddy's Home,Comedy,96,1 win & 4 nominations.,Sean Anders
+582,Eraser,"Action, Drama, Thriller",115,Nominated for 1 Oscar. Another 3 wins & 1 nomination.,Chuck Russell
+583,Journey to the Center of the Earth,"Action, Adventure, Family, Fantasy, Sci-Fi",93,3 wins & 3 nominations.,Eric Brevig
+584,Assassin's Creed,"Action, Adventure, Sci-Fi",115,2 wins & 1 nomination.,Justin Kurzel
+585,Alien: Covenant,"Horror, Sci-Fi, Thriller",122,1 win & 12 nominations.,Ridley Scott
+586,Sully,"Biography, Drama",96,Nominated for 1 Oscar. Another 12 wins & 33 nominations.,Clint Eastwood
+587,Resident Evil: Retribution,"Action, Horror, Sci-Fi, Thriller",95,2 wins & 5 nominations.,Paul W.S. Anderson
+588,Crocodile Dundee II,"Action, Adventure, Comedy",108,2 wins.,John Cornell
+589,Planes,"Animation, Adventure, Comedy, Family",91,5 nominations.,Klay Hall
+590,Crazy Rich Asians,"Comedy, Drama, Romance",120,N/A,Jon M. Chu
+591,Batman and Robin,"Action, Adventure, Crime, Drama, Sci-Fi",263,N/A,Spencer Gordon Bennet
+592,Click,"Comedy, Drama, Fantasy, Romance",107,Nominated for 1 Oscar. Another 3 wins & 11 nominations.,Frank Coraci
+593,Gulliver's Travels,"Adventure, Comedy, Family, Fantasy",85,3 nominations.,Rob Letterman
+594,Gone in 60 Seconds,"Action, Crime, Thriller",118,9 wins & 6 nominations.,Dominic Sena
+595,Saturday Night Fever,"Drama, Music",118,Nominated for 1 Oscar. Another 4 wins & 11 nominations.,John Badham
+596,Silver Linings Playbook,"Comedy, Drama, Romance",122,Won 1 Oscar. Another 88 wins & 145 nominations.,David O. Russell
+597,2 Fast 2 Furious,"Action, Crime, Thriller",107,4 wins & 13 nominations.,John Singleton
+598,Howl's Moving Castle,"Animation, Adventure, Family, Fantasy",119,Nominated for 1 Oscar. Another 14 wins & 19 nominations.,Hayao Miyazaki
+599,Hidden Figures,"Biography, Drama, History",127,Nominated for 3 Oscars. Another 36 wins & 81 nominations.,Theodore Melfi
+600,A.I. Artificial Intelligence,"Drama, Sci-Fi",146,Nominated for 2 Oscars. Another 16 wins & 67 nominations.,Steven Spielberg
+601,Dead Poets Society,"Comedy, Drama",128,Won 1 Oscar. Another 18 wins & 18 nominations.,Peter Weir
+602,Spy,"Action, Comedy, Crime",119,Nominated for 2 Golden Globes. Another 6 wins & 27 nominations.,Paul Feig
+603,American Pie,Comedy,95,9 wins & 14 nominations.,"Paul Weitz, Chris Weitz"
+604,American Reunion,Comedy,113,1 win & 4 nominations.,"Jon Hurwitz, Hayden Schlossberg"
+605,Big Daddy,"Comedy, Drama",93,8 wins & 14 nominations.,Dennis Dugan
+606,Alvin and the Chipmunks: The Road Chip,"Animation, Adventure, Comedy, Family, Fantasy, Music",92,1 win & 4 nominations.,Walt Becker
+607,The Imitation Game,"Biography, Drama, Thriller, War",114,Won 1 Oscar. Another 46 wins & 155 nominations.,Morten Tyldum
+608,Argo,"Biography, Drama, Thriller",120,Won 3 Oscars. Another 94 wins & 152 nominations.,Ben Affleck
+609,The English Patient,"Drama, Romance, War",162,Won 9 Oscars. Another 53 wins & 75 nominations.,Anthony Minghella
+610,Sister Act,"Comedy, Crime, Family, Music",100,Nominated for 2 Golden Globes. Another 8 wins & 8 nominations.,Emile Ardolino
+611,American Wedding,Comedy,96,3 wins & 6 nominations.,Jesse Dylan
+612,Juno,"Comedy, Drama",96,Won 1 Oscar. Another 89 wins & 95 nominations.,Jason Reitman
+613,Constantine,"Action, Fantasy, Horror, Mystery",121,2 wins & 9 nominations.,Francis Lawrence
+614,Get Smart,"Action, Adventure, Comedy",110,2 wins & 6 nominations.,Peter Segal
+615,Space Jam,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi, Sport",88,5 wins & 7 nominations.,Joe Pytka
+616,The Heat,"Action, Comedy, Crime",117,7 wins & 16 nominations.,Paul Feig
+617,Mr. Bean's Holiday,"Comedy, Family",90,2 nominations.,Steve Bendelack
+618,Life Is Beautiful,"Comedy, Drama, Romance, War",116,Won 3 Oscars. Another 66 wins & 51 nominations.,Roberto Benigni
+619,Mr. Plinkett's Ghostbusters 2016 Review,Comedy,58,N/A,Mike Stoklasa
+620,Ghost Rider,"Action, Fantasy, Thriller",114,1 win & 9 nominations.,Mark Steven Johnson
+621,Annabelle Comes Home,"Horror, Mystery, Thriller",106,N/A,Gary Dauberman
+622,Goodbye Mr. Loser,Comedy,104,3 nominations.,"Da-Mo Peng, Fei Yan"
+623,Sleepless in Seattle,"Comedy, Drama, Romance",105,Nominated for 2 Oscars. Another 4 wins & 17 nominations.,Nora Ephron
+624,Lethal Weapon 2,"Action, Crime, Thriller",114,Nominated for 1 Oscar. Another 1 win.,Richard Donner
+625,The Green Hornet,"Action, Comedy, Crime, Sci-Fi, Thriller",119,4 wins & 7 nominations.,Michel Gondry
+626,Out of Africa,"Biography, Drama, Romance",161,Won 7 Oscars. Another 23 wins & 27 nominations.,Sydney Pollack
+627,Paddington 2,"Adventure, Comedy, Family, Fantasy",103,Nominated for 3 BAFTA Film Awards. Another 3 wins & 7 nominations.,Paul King
+628,Baby Driver,"Action, Crime, Drama, Music, Thriller",113,Nominated for 3 Oscars. Another 31 wins & 44 nominations.,Edgar Wright
+629,Immortals,"Action, Drama, Fantasy, Romance",110,1 win & 6 nominations.,Tarsem Singh
+630,Taken,"Action, Thriller",94,2 wins & 2 nominations.,Pierre Morel
+631,Percy Jackson,Adventure,N/A,N/A,N/A
+632,Good Will Hunting,"Drama, Romance",126,Won 2 Oscars. Another 22 wins & 57 nominations.,Gus Van Sant
+633,Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy, Sci-Fi",137,8 nominations.,Luc Besson
+634,The Social Network,"Biography, Drama",120,Won 3 Oscars. Another 165 wins & 168 nominations.,David Fincher
+635,Chicken Run,"Animation, Adventure, Comedy, Drama, Family",84,Nominated for 1 Golden Globe. Another 23 wins & 25 nominations.,"Peter Lord, Nick Park"
+636,Con Air,"Action, Crime, Thriller",115,Nominated for 2 Oscars. Another 7 wins & 9 nominations.,Simon West
+637,Interview with the Vampire: The Vampire Chronicles,"Drama, Horror",123,Nominated for 2 Oscars. Another 22 wins & 25 nominations.,Neil Jordan
+638,Flightplan,"Action, Drama, Mystery, Thriller",98,2 wins & 6 nominations.,Robert Schwentke
+639,Yes Man,"Comedy, Romance",104,3 wins & 8 nominations.,Peyton Reed
+640,Non-Stop,"Action, Mystery, Thriller",106,1 nomination.,Jaume Collet-Serra
+641,"Honey, I Shrunk the Kids","Adventure, Comedy, Family, Sci-Fi",93,Won 1 BAFTA Film Award. Another 1 win & 10 nominations.,Joe Johnston
+642,Fahrenheit 9/11,"Documentary, Drama, War",122,29 wins & 16 nominations.,Michael Moore
+643,Jumper,"Action, Adventure, Sci-Fi, Thriller",88,2 wins & 4 nominations.,Doug Liman
+644,Wild Wild West,"Action, Comedy, Sci-Fi, Western",106,15 wins & 17 nominations.,Barry Sonnenfeld
+645,Geostorm,"Action, Sci-Fi, Thriller",109,N/A,Dean Devlin
+646,Presumed Innocent,"Mystery, Thriller",127,1 win & 2 nominations.,Alan J. Pakula
+647,Elf,"Comedy, Family, Fantasy, Romance",97,2 wins & 7 nominations.,Jon Favreau
+648,Scary Movie 3,Comedy,84,2 wins & 4 nominations.,David Zucker
+649,Inferno,"Action, Adventure, Crime, Drama, Mystery, Thriller",121,1 win & 1 nomination.,Ron Howard
+650,Green Lantern,"Action, Adventure, Sci-Fi",114,3 wins & 6 nominations.,Martin Campbell
+651,The Terminal,"Comedy, Drama, Romance",128,5 wins & 4 nominations.,Steven Spielberg
+652,What Happens in Vegas,"Comedy, Romance",99,2 wins & 3 nominations.,Tom Vaughan
+653,It's Complicated,"Comedy, Drama, Romance",120,Nominated for 3 Golden Globes. Another 8 wins & 12 nominations.,Nancy Meyers
